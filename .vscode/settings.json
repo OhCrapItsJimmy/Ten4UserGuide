@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c3b89266-cc4d-42fc-9c24-089d2bff5788/resourceGroups/AZ-AS-RGP-VN-P-SEQ02551-APERTURE/providers/Microsoft.Web/sites/Ten4UserGuide",
+    "appService.deploySubpath": "."
+}
